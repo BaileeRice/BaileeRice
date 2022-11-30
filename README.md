@@ -29,5 +29,6 @@ Came across the subject of data science after graduating with a Business Managem
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaileeRice&layout=compact)](https://github.com/BaileeRice)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="bailee-rice-451aa3237" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/bailee-rice-451aa3237?trk=profile-badge">Bailee Rice</a></div>
               
